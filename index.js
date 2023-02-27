@@ -88,6 +88,8 @@ for (let i = 1; i < 16; i++) {
   container.appendChild(card);
 }
 // End of Cards Creation ...
+
+// Start Footer creation ...
 footer = document.createElement("div");
 footer.style.backgroundColor = "green";
 footer.style.width = "100%";
@@ -101,8 +103,6 @@ footerText.style.paddingTop = "7px";
 footerText.style.letterSpacing = "2px";
 footerText.style.fontWeight = "600";
 footer.appendChild(footerText);
-// Start Footer creation ...
-
 // End Footer Creation ...
 
 // body container : ...
