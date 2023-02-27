@@ -93,7 +93,7 @@ footer.style.backgroundColor = "green";
 footer.style.width = "100%";
 footer.style.height = "43px";
 footerText = document.createElement("div");
-footerText.appendChild(document.createTextNode("CopyRight  2023"));
+footerText.appendChild(document.createTextNode("CopyRight -- 2023"));
 footerText.style.color = "white";
 footerText.style.fontSize = "25px";
 footerText.style.textAlign = "center";
