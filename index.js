@@ -68,12 +68,12 @@ for (let i = 1; i < 16; i++) {
   // Card Creation ...
   card = document.createElement("div");
   card.style.width = "30%";
-  card.style.margin = "5px 10px 10px";
+  card.style.margin = "10px";
   card.style.height = "fit-content";
   card.style.fontSize = "30px";
   card.style.textAlign = "center";
   card.style.color = "gray";
-  card.style.padding = "10px 0";
+  card.style.padding = "20px 0";
   card.style.backgroundColor = "white";
   cardN = document.createElement("div");
   cardNumber = document.createTextNode(i);
